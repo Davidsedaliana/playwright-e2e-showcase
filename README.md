@@ -10,6 +10,8 @@ run history — updated automatically every day by CI.**
 
 [Русская версия →](README.ru.md)
 
+![Allure report demo: overview, suites, test steps](docs/demo.gif)
+
 ## What's inside
 
 - **19 UI scenarios** against [saucedemo.com](https://www.saucedemo.com) — login

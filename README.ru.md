@@ -10,6 +10,8 @@
 
 [English version →](README.md)
 
+![Демо Allure-отчёта: обзор, сьюты, шаги теста](docs/demo.gif)
+
 ## Что внутри
 
 - **19 UI-сценариев** на [saucedemo.com](https://www.saucedemo.com) — логин
