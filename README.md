@@ -12,6 +12,21 @@ run history — updated automatically every day by CI.**
 
 ![Allure report demo: overview, suites, test steps](docs/demo.gif)
 
+### A real run, recorded
+
+![Real run: login, catalog sorting, cart, checkout](docs/tests-run.gif)
+
+Four of the 19 UI scenarios, captured from an actual `playwright test` run against
+saucedemo.com — real browser, real assertions, no mockups.
+
+### Report screens
+
+| Overview: 68 tests, 100% green | A test with all its steps |
+| --- | --- |
+| ![Overview](docs/allure-overview.jpg) | ![Test steps](docs/allure-test-steps.jpg) |
+| **Graphs: status, severity, duration** | **Timeline of parallel workers** |
+| ![Graphs](docs/allure-graphs.jpg) | ![Timeline](docs/allure-timeline.jpg) |
+
 ## What's inside
 
 - **19 UI scenarios** against [saucedemo.com](https://www.saucedemo.com) — login
